@@ -1,7 +1,7 @@
 # [Goblin.Life](https://Goblin.Life)
 Imagination with Friends.
 
-## Within this tome, these ancient Goblin secrets you will unlock
+## Within this tome, ancient Goblin secrets you will unlock
  - Study under the [Academy of Fine Imagination](https://github.com/AGoblinKing/goblin-life-content/wiki)
  - Petition A Goblin King in the [Court](https://github.com/AGoblinKing/goblin-life-content/issues)
  - Carouse with fellow Dreamers on the [Adventure Board](https://github.com/AGoblinKing/goblin-life-content/discussions)
