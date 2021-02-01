@@ -1,4 +1,4 @@
-# Goblin.Life
+# [Goblin.Life](https://Goblin.Life)
 Imagination with Friends.
 
 ## Within this tome, these ancient Goblin secrets you will unlock
